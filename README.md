@@ -14,10 +14,10 @@
 >3. Finally we create DbApp class to make the <b>GUI</b> for application.<br />
 
 ##Main Function##
->+next:show the next row in the table.<br />
->+prev:show the prev row in the table.<br />
->+first:show the first row in the table.<br />
->+last:show the last row in the table.<br />
+>*next:show the next row in the table.<br />
+>*prev:show the prev row in the table.<br />
+>*first:show the first row in the table.<br />
+>*last:show the last row in the table.<br />
 
 ##Images##<br />
 ###Home Page###
